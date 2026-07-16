@@ -60,3 +60,16 @@ Where Can It Be Used
 - Manufacturing plants can deploy similar logic to regulate material handling tasks between different production assembly stations.
 - Warehouses can utilize these concepts to optimize the flow of cargo containers through automated fulfillment zones.
 - Ultimately, it serves as an excellent low-risk staging script for prototyping large-scale industrial distribution networks.
+
+---
+
+Demonstration Video
+
+
+
+https://github.com/user-attachments/assets/4fc26c51-3ca6-47d5-bece-e15409adaf13
+
+
+
+
+
